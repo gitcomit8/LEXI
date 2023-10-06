@@ -1,10 +1,9 @@
-```markdown
 # LEXI - Learning and Executing eXpert Intelligence
-
+```
 ![LEXI Logo](lexi-logo.png)
 
 LEXI is an AI assistant designed to make your life easier by understanding natural language, performing tasks, and continuously learning and improving.
-
+```
 ## Table of Contents
 
 - [Features](#features)
@@ -26,7 +25,7 @@ LEXI is an AI assistant designed to make your life easier by understanding natur
 ## Getting Started
 
 Follow these steps to get LEXI up and running on your system.
-
+```
 ### Prerequisites
 
 - Python 3.x
@@ -35,14 +34,14 @@ Follow these steps to get LEXI up and running on your system.
 - NLTK
 - BeautifulSoup
 - PyAutoGUI
-
+```
 ### Installation
 
 1. Clone the LEXI repository to your local machine:
 
-   bash
-   git clone https://github.com/yourusername/lexi.git
-   
+   ```bash
+   git clone https://github.com/gitcomit8/lexi.git
+   ```
 
 2. Navigate to the project directory:
 
