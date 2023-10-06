@@ -41,6 +41,9 @@ Follow these steps to get LEXI up and running on your system.
    ```bash
    git clone https://github.com/gitcomit8/lexi.git
    ```
+   ```bash
+   git clone https://github.com/gitcomit8/lexi.git
+   ```
 
 2. Navigate to the project directory:
 
