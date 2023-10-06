@@ -40,9 +40,9 @@ Follow these steps to get LEXI up and running on your system.
 
 1. Clone the LEXI repository to your local machine:
 
-   ```bash
+   bash
    git clone https://github.com/yourusername/lexi.git
-   ```
+   
 
 2. Navigate to the project directory:
 
