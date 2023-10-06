@@ -1,6 +1,4 @@
-```markdown
 # LEXI - Learning and Executing eXpert Intelligence
-
 ![LEXI Logo](lexi-logo.png)
 
 LEXI is an AI assistant designed to make your life easier by understanding natural language, performing tasks, and continuously learning and improving.
@@ -40,9 +38,9 @@ Follow these steps to get LEXI up and running on your system.
 
 1. Clone the LEXI repository to your local machine:
 
-   bash
-   git clone https://github.com/yourusername/lexi.git
-   
+   ```bash
+   git clone https://github.com/gitcomit8/lexi.git
+   ```
 
 2. Navigate to the project directory:
 
@@ -101,4 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to the open-source community for providing the tools and libraries that make LEXI possible.
 - Inspired by JARVIS and EDITH from the MCU.
-```
